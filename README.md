@@ -1,19 +1,26 @@
-# 👋 Hi, I am Anshul Parkar
+# 👋 Hi, I'm Anshul Parkar
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Developer from India, currently pursuing a Computer Engineering degree in Mumbai. Passionate about solving real-world problems, I specialize in building dynamic, scalable, and efficient applications using modern technologies.
+I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursuing my Bachelor’s in Computer Engineering. I thrive on building **dynamic**, **scalable**, and **efficient** applications that solve real-world problems.
 
-- 🎯 **Current Focus Areas**: Gen-AI, ML Algorithms, DevOps, Data Science
-- 🤝 **Let's Connect & Collaborate!**
-- 💼 **Open for opportunities in Full-Stack Development & AI-ML**
-- 💡 *"LOVES STORY CODING - Making Storying while coding makes life easy!" "Understand the story & JUST CODE IT UP"*
+💡 _"LOVES STORY CODING - Making storytelling while coding makes life easy!"_  
+💡 _"Understand the story & JUST CODE IT UP!"_
 
 ---
 
-## 🌐 Socials
+### 🚀 Current Focus Areas
+
+- 🤖 Gen-AI & Machine Learning Algorithms  
+- 🧠 Data Science & Visualization  
+- ⚙️ DevOps & Cloud Engineering  
+- 🌐 Full-Stack Web Development (React + Node)
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.instagram.com/im__parkar" target="_blank">
@@ -23,17 +30,17 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anshulparkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshulParkar&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulParkar&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshulParkar&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulParkar&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
@@ -50,7 +57,15 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 
 ---
 
-## 🔥 LeetCode Stats (Username: anshulparkar)
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnshulParkar&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🔥 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anshulparkar?theme=dark&font=Arial&ext=activity" />
@@ -60,7 +75,7 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 
 ## 💻 Tech Stack
 
-### 🧠 Languages:
+### 🧠 Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -69,7 +84,7 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-### ⚙️ Frameworks/Libraries:
+### ⚙️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
@@ -78,7 +93,7 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### ☁️ Cloud / DevOps:
+### ☁️ Cloud / DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -86,7 +101,7 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
 </p>
 
-### 🧰 Tools:
+### 🧰 Tools & Editors
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clerk-EF4A4A?style=flat-square&logo=clerk&logoColor=white"/>
@@ -94,7 +109,7 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-### 🧠 Soft Skills:
+### 🧠 Soft Skills
 `Problem Solving` · `Team Collaboration` · `Self-learning` · `Detail-oriented`
 
 <p align="center">
@@ -103,24 +118,22 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 
 ---
 
+## 📌 Pinned Projects (Example)
+
+- [🔗 AI-Powered Chatbot with React + GPT-4](https://github.com/AnshulParkar/your-chatbot)
+- [📊 Expense Tracker with MongoDB & Express](https://github.com/AnshulParkar/expense-tracker)
+- [📈 ML Model Visualizer (with Flask + Sklearn)](https://github.com/AnshulParkar/ml-visualizer)
+
+---
+
+## 🤔 Fun Fact
+
+I love coding in silence but explaining in stories!  
+_"Behind every project, there's a story — let's build it together!"_
+
+---
 
 ## ⭐ Final Note
 
-⭐ Don't forget to **star repositories** you find interesting or helpful!  
+⭐ Don’t forget to **star repositories** you find useful or inspiring!  
 🧠 Made with ❤️ by **AP**
-
-
-<!--
-**AnshulParkar/AnshulParkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
