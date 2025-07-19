@@ -13,6 +13,22 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 
 ---
 
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://www.instagram.com/im__parkar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anshul-parkar-91306b286" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anshulparkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,21 +103,6 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 
 ---
 
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://www.instagram.com/im__parkar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anshul-parkar-91306b286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anshulparkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## ⭐ Final Note
 
