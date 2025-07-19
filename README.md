@@ -41,7 +41,7 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AnshulParkar&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnshulParkar&theme=github-compact" />
 </p>
 
 <p align="center">
