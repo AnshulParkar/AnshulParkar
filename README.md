@@ -1,40 +1,66 @@
 # 👋 Hi, I am Anshul Parkar
 
+---
+
+## 👨‍💻 About Me
+
 I'm a Software Developer from India, currently pursuing a Computer Engineering degree in Mumbai. Passionate about solving real-world problems, I specialize in building dynamic, scalable, and efficient applications using modern technologies.
+
+- 🎯 **Current Focus Areas**: Gen-AI, ML Algorithms, DevOps, Data Science
+- 🤝 **Let's Connect & Collaborate!**
+- 💼 **Open for opportunities in Full-Stack Development & AI-ML**
+- 💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshulParkar&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulParkar&layout=compact&theme=radical" width="45%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshulParkar&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulParkar&layout=compact&theme=radical" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulParkar&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AnshulParkar&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnshulParkar&style=for-the-badge&color=red" alt="profile-views" />
+</p>
 
 ---
 
-## 🔥 LeetCode & Codeforces Stats
+## 🔥 LeetCode Stats (Username: anshulparkar)
 
-### LeetCode (Username: anshulparkar)
-
-<div align="center">
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/anshulparkar?theme=dark&font=Arial&ext=activity" />
-</div>
-
-<!-- Optional Codeforces card if you have a CF account -->
-<!-- 
-### Codeforces
-<div align="center">
-  <img src="https://cf.leed.at?id=anshulparkar" />
-</div>
- -->
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
+### 🧠 Languages:
+`C++` · `Python` · `JavaScript` · `TypeScript` · `SQL`
+
+### ⚙️ Frameworks/Libraries:
+`React` · `Next.js` · `Flask` · `Tailwind CSS` · `Node.js`
+
+### ☁️ Cloud / DevOps:
+`AWS (S3, Lambda, API Gateway)` · `Git` · `CI/CD` · `Hostinger`
+
+### 🧰 Tools:
+`Vite` · `Clerk Auth` · `Nodemailer` · `VS Code`
+
+### 🧠 Soft Skills:
+`Problem Solving` · `Team Collaboration` · `Self-learning` · `Detail-oriented`
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,ts,js,py,java,firebase,aws,express,react,redux,socketio,vite,vercel,nodejs,mongodb,mysql,postgres,git,github,figma,html,css,postman,docker,numpy,pandas,scikit-learn,tensorflow,matplotlib&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c++,ts,js,py,java,react,nextjs,nodejs,tailwind,flask,aws,git,docker,vscode,vite,figma,postgres,mongodb,mysql,redux,vercel,github,postman&theme=dark" />
 </p>
 
 ---
@@ -52,6 +78,14 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## ⭐ Final Note
+
+⭐ Don't forget to **star repositories** you find interesting or helpful!  
+🧠 Made with ❤️ by **AP**
+
 
 <!--
 **AnshulParkar/AnshulParkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
