@@ -45,16 +45,38 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 ## 💻 Tech Stack
 
 ### 🧠 Languages:
-`C++` · `Python` · `JavaScript` · `TypeScript` · `SQL`
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 ### ⚙️ Frameworks/Libraries:
-`React` · `Next.js` · `Flask` · `Tailwind CSS` · `Node.js`
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
 
 ### ☁️ Cloud / DevOps:
-`AWS (S3, Lambda, API Gateway)` · `Git` · `CI/CD` · `Hostinger`
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-blue?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
+</p>
 
 ### 🧰 Tools:
-`Vite` · `Clerk Auth` · `Nodemailer` · `VS Code`
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-EF4A4A?style=flat-square&logo=clerk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemailer-0A0A0A?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ### 🧠 Soft Skills:
 `Problem Solving` · `Team Collaboration` · `Self-learning` · `Detail-oriented`
