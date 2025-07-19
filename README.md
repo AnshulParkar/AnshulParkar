@@ -120,9 +120,9 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
 
 ## 📌 Pinned Projects (Example)
 
-- [🔗 AI-Powered Chatbot with React + GPT-4](https://github.com/AnshulParkar/your-chatbot)
-- [📊 Expense Tracker with MongoDB & Express](https://github.com/AnshulParkar/expense-tracker)
-- [📈 ML Model Visualizer (with Flask + Sklearn)](https://github.com/AnshulParkar/ml-visualizer)
+- [🔗 AI-Based Podcast Generator](https://github.com/AnshulParkar/Hacksync_Error101)
+- [📊 Food Rescue Website](https://github.com/AnshulParkar/expense-tracker)
+- [📈 RGS Company Website](https://github.com/AnshulParkar/ml-visualizer)
 
 ---
 
