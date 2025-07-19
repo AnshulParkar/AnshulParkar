@@ -9,7 +9,7 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 - 🎯 **Current Focus Areas**: Gen-AI, ML Algorithms, DevOps, Data Science
 - 🤝 **Let's Connect & Collaborate!**
 - 💼 **Open for opportunities in Full-Stack Development & AI-ML**
-- 💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+- 💡 *"LOVES STORY CODING - Making Storying while coding makes life easy!" "Understand the story & JUST CODE IT UP"*
 
 ---
 
