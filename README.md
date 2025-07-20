@@ -47,9 +47,6 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulParkar&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnshulParkar&theme=github-compact" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnshulParkar&style=for-the-badge&color=red" alt="profile-views" />
