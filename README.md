@@ -1,10 +1,14 @@
 # 👋 Hello, I'm Anshul Parkar
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Engineer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
+
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursuing my Bachelor’s in Computer Engineering. I thrive on building **dynamic**, **scalable**, and **efficient** applications that solve real-world problems.
+I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursuing my Bachelor's in Computer Engineering. I thrive on building **dynamic**, **scalable**, and **efficient** applications that solve real-world problems.
 
 💡 _"LOVES STORY CODING - Making storytelling while coding makes life easy!"_  
 💡 _"Understand the story & JUST CODE IT UP!"_
@@ -16,7 +20,7 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
 - 🤖 Gen-AI & Machine Learning Algorithms  
 - 🧠 Data Science & Visualization  
 - ⚙️ DevOps & Cloud Engineering  
-- 🌐 Full-Stack Web Development (React + Node)
+- 🌐 Full-Stack Web Development (React + Node/Flask)
 
 ---
 
@@ -31,6 +35,9 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
   </a>
   <a href="mailto:anshulparkar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/anshulparkar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -47,18 +54,17 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulParkar&theme=radical" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnshulParkar&style=for-the-badge&color=red" alt="profile-views" />
 </p>
 
 ---
 
-## 🔥 LeetCode Stats
+<!-- ## 🔥 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anshulparkar?theme=dark&font=Arial&ext=activity" />
-</p>
+</p> -->
 
 ---
 
@@ -66,6 +72,7 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
 
 ### 🧠 Languages
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -80,6 +87,9 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud / DevOps
@@ -96,22 +106,49 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
   <img src="https://img.shields.io/badge/Clerk-EF4A4A?style=flat-square&logo=clerk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodemailer-0A0A0A?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
 ### 🧠 Soft Skills
 `Problem Solving` · `Team Collaboration` · `Self-learning` · `Detail-oriented`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,ts,js,py,java,react,nextjs,nodejs,tailwind,flask,aws,git,docker,vscode,vite,figma,postgres,mongodb,mysql,redux,vercel,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,py,react,nextjs,nodejs,tailwind,flask,aws,git,docker,vscode,vite,figma,postgres,mongodb,mysql,redux,vercel,github,postman,anaconda&theme=dark" />
 </p>
 
 ---
 
-## 📌 Pinned Projects (Example)
+## 📌 Featured Projects
 
-- [🔗 AI-Based Podcast Generator](https://github.com/AnshulParkar/Hacksync_Error101)
-- [📊 Food Rescue Website](https://github.com/AnshulParkar/expense-tracker)
-- [📈 RGS Company Website](https://github.com/AnshulParkar/ml-visualizer)
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🎙️ **AI Podcast Generator** | Advanced AI-powered podcast generation system | Python, Flask, Gen-AI | [View →](https://github.com/AnshulParkar/Hacksync_Error101) |
+| 🍽️ **Food Rescue Platform** | Full-stack web application for food waste reduction | React, Node.js, MongoDB | [View →](https://github.com/AnshulParkar/expense-tracker) |
+| 🏢 **RGS Company Website** | Professional corporate website with modern design | Next.js, Tailwind CSS | [View →](https://github.com/AnshulParkar/ml-visualizer) |
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🎯 **Active Problem Solver** on LeetCode
+- 🚀 **Open Source Contributor** with multiple projects
+- 📚 **Continuous Learner** in AI/ML technologies
+- 💼 **Full-Stack Development** experience across multiple domains
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshulParkar&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true" />
+</p>
 
 ---
 
@@ -122,7 +159,21 @@ _"Behind every project, there's a story — let's build it together!"_
 
 ---
 
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
 ## ⭐ Final Note
 
-⭐ Don’t forget to **star repositories** you find useful or inspiring!  
+⭐ Don't forget to **star repositories** you find useful or inspiring!  
 🧠 Made with ❤️ by **AP**
+
+<div align="center">
+  
+**"Code is poetry written in logic"** 💻✨
+
+</div>
