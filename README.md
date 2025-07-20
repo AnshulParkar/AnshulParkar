@@ -60,11 +60,11 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
 
 ---
 
-<!-- ## 🔥 LeetCode Stats
+ ## 🔥 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anshulparkar?theme=dark&font=Arial&ext=activity" />
-</p> -->
+</p> 
 
 ---
 
