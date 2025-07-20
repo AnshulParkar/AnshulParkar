@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anshul Parkar
+# 👋 Hello, I'm Anshul Parkar
 
 ---
 
@@ -53,14 +53,6 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnshulParkar&style=for-the-badge&color=red" alt="profile-views" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshulParkar&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
