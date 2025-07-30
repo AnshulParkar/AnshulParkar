@@ -114,7 +114,8 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
 
 ### 🧠 Soft Skills
 `Problem Solving` · `Team Collaboration` · `Self-learning` · `Detail-oriented`
-
+----
+<!--
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,py,react,nextjs,nodejs,tailwind,flask,aws,git,docker,vscode,vite,figma,postgres,mongodb,mysql,redux,vercel,github,postman,anaconda&theme=dark" />
 </p>
@@ -142,6 +143,8 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
 - 📚 **Continuous Learner** in AI/ML technologies
 - 💼 **Full-Stack Development** experience across multiple domains
 
+-->
+
 ---
 
 ## 📊 Activity Graph
@@ -151,7 +154,7 @@ I'm a passionate Software Developer from Mumbai, India 🇮🇳, currently pursu
 </p>
 
 ---
-
+<!--
 ## 🤔 Fun Fact
 
 I love coding in silence but explaining in stories!  
@@ -177,3 +180,4 @@ _"Behind every project, there's a story — let's build it together!"_
 **"Code is poetry written in logic"** 💻✨
 
 </div>
+-->
