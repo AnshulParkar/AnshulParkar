@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anshul Parkar
+# 👋 Hello, Greetings from ANSHUL !
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Engineer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
